@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @itsCheithanya
-- 👀 I’m interested in contributing to open source,CP,Web development,Google cloud.
-- 🌱 I’m currently learning kubernetes and backend development
-- 💞️ I’m looking to collaborate on frontend and backend,kuberenetes too and gain on the go
+- 👀 I’m interested in contributing to open source,Web development,DevOPS,UI/UX.
+- 🌱 I’m currently learning machine learning,kubernetes and backend development
+- 💞️ I’m looking to collaborate on projects .
       -->Take a look at my projects
 - 📫 You can reach me through mail:cheithanya2002@gmail.com
                               instagram:aynahtiehc
