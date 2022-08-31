@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @itsCheithanya
-- 👀 I’m interested in contributing to open source,Web development,DevOPS,UI/UX.
-- 🌱 I’m currently learning machine learning,kubernetes and backend development
+- 👀 I’m interested in contributing to open source.
+- ✨ Into DevOPS & UI/UX.
+- 🌱 I’m currently learning machine learning,kubernetes.
 - 💞️ I’m looking to collaborate on projects .
       -->Take a look at my projects
 - 📫 You can reach me through mail:cheithanya2002@gmail.com
