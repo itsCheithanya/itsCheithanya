@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @itsCheithanya
-- 👀 I’m interested in contributing to open source.
-- ✨ Into DevOPS & UI/UX.
-- 🌱 I’m currently learning machine learning,kubernetes.
-- 💞️ I’m looking to collaborate on projects .
-      -->Take a look at my projects
+- 👋 Hi, I'm @itsCheithanya.
+- 👀 I contribute to open-source projects and have a keen interest in DevOps and UI/UX.
+- ✨ I am passionate about exploring and implementing both the development and operational aspects of software projects.
+- 🌱 Currently, I am focusing on expanding my knowledge in AI/ML and Kubernetes.
+- 💞️ I am actively seeking opportunities to collaborate on exciting projects where I can contribute my skills and expertise.
+--> Take a look at some of my projects:
 - 📫 You can reach me through mail:cheithanya2002@gmail.com
                               instagram:aynahtiehc
                               twitter:CheithanyaP
