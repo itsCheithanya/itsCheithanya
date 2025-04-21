@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @itsCheithanya.
 - :computer: Fullstack developer
-- 👀 I contribute to open-source projects and have a keen interest in DevOps and UI/UX.
+- 👀 I contribute to open-source projects.
 - ✨ I am passionate about exploring and implementing both the development and operational aspects of software projects.
 - 🌱 Currently, I am focusing on expanding my knowledge in AI/ML and Kubernetes.
 - 💞️ I am actively seeking opportunities to collaborate on exciting projects where I can contribute my skills and expertise.
